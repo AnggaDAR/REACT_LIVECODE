@@ -1,0 +1,33 @@
+a.active,
+a:hover,
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li {
+    margin: 20px;
+}
+
+a {
+    color: #19345E;
+}
+
+a:hover {
+    color: #F47522;
+}
+
+a.active {
+    color: #F47522;
+}
+
+/* header {
+    margin: 0;
+    padding: 20px 0px;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.5);
+} */
+
+.logo {
+    text-align: center;
+    height: 60px;
+}
